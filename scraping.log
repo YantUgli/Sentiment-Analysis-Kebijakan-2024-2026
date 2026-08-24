@@ -1,0 +1,151 @@
+2026-08-24 14:21:49.151 | WARNING  | twscrape.accounts_pool:add_account:103 - Account bryengith already exists
+[auth] Menggunakan cookies dari .env
+[data] 3,408 tweet sudah ada di dataset
+[14:22:00] 'kenaikan harga until:2026-08-24' -> 23 baru | total 3,431
+[14:22:19] 'harga sembako naik until:2026-08-24' -> 24 baru | total 3,455
+[14:22:37] 'upah minimum gaji until:2026-08-24' -> 35 baru | total 3,490
+[14:23:05] 'pajak naik rakyat until:2026-08-24' -> 40 baru | total 3,530
+2026-08-24 14:23:19.706 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 14:36:18
+2026-08-24 14:36:20.660 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:333 - Continuing with account bryengith on queue SearchTimeline
+2026-08-24 14:36:22.616 | ERROR    | twscrape.models:_write_dump:827 - Failed to parse response of tweet, writing dump to /tmp/twscrape/twscrape_parse_error_2026-08-24_07-36-22_dyhon.txt
+[14:36:23] 'gaji tidak cukup until:2026-08-24' -> 76 baru | total 3,606
+[14:36:43] 'harga BBM naik until:2026-08-24' -> 19 baru | total 3,625
+[14:36:59] 'listrik mahal until:2026-08-24' -> 42 baru | total 3,667
+[14:37:16] 'bantuan sosial pemerintah until:2026-08-24' -> 47 baru | total 3,714
+[14:37:32] 'harga turun murah until:2026-08-24' -> 28 baru | total 3,742
+2026-08-24 14:37:39.069 | ERROR    | twscrape.models:_write_dump:827 - Failed to parse response of tweet, writing dump to /tmp/twscrape/twscrape_parse_error_2026-08-24_07-37-39_gdbky.txt
+2026-08-24 14:37:39.072 | ERROR    | twscrape.models:_write_dump:827 - Failed to parse response of tweet, writing dump to /tmp/twscrape/twscrape_parse_error_2026-08-24_07-37-39_zkotn.txt
+2026-08-24 14:37:44.078 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 14:51:20
+2026-08-24 14:51:30.013 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:333 - Continuing with account bryengith on queue SearchTimeline
+[14:51:33] 'gaji naik terima kasih until:2026-08-24' -> 43 baru | total 3,785
+[14:51:52] 'thr karyawan until:2026-08-24' -> 21 baru | total 3,806
+[14:52:12] 'subsidi membantu masyarakat until:2026-08-24' -> 81 baru | total 3,887
+[14:52:33] 'inflasi Indonesia until:2026-08-24' -> 45 baru | total 3,932
+[14:52:51] 'subsidi pemerintah until:2026-08-24' -> 11 baru | total 3,943
+2026-08-24 14:53:04.024 | WARNING  | twscrape.queue_client:req:371 - ConnectError; username=bryengith; queue=SearchTimeline; backend=curl; proxy=False; cooling account for 60s
+2026-08-24 14:53:04.039 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 14:54:04
+2026-08-24 14:54:19.130 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:333 - Continuing with account bryengith on queue SearchTimeline
+2026-08-24 14:54:25.677 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 15:06:30
+2026-08-24 15:06:41.547 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:333 - Continuing with account bryengith on queue SearchTimeline
+[15:06:48] 'belanja hemat tips until:2026-08-24' -> 9 baru | total 3,952
+[15:07:04] 'kebijakan ekonomi pemerintah until:2026-08-24' -> 42 baru | total 3,994
+[15:07:21] 'harga cabai until:2026-08-24' -> 195 baru | total 4,189
+[15:07:37] 'harga beras until:2026-08-24' -> 195 baru | total 4,384
+2026-08-24 15:07:50.179 | WARNING  | twscrape.queue_client:req:371 - ConnectError; username=bryengith; queue=SearchTimeline; backend=curl; proxy=False; cooling account for 60s
+2026-08-24 15:07:50.193 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 15:08:50
+2026-08-24 15:08:15.395 | WARNING  | twscrape.accounts_pool:add_account:103 - Account bryengith already exists
+[auth] Menggunakan cookies dari .env
+[data] 4,384 tweet sudah ada di dataset
+2026-08-24 15:08:15.437 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 15:08:50
+2026-08-24 15:09:00.498 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:333 - Continuing with account bryengith on queue SearchTimeline
+[15:09:12] 'kenaikan harga until:2026-08-24' -> 7 baru | total 4,391
+2026-08-24 15:09:17.261 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 15:21:43
+2026-08-24 15:21:48.210 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:333 - Continuing with account bryengith on queue SearchTimeline
+[15:21:54] 'harga sembako naik until:2026-08-24' -> 1 baru | total 4,392
+[15:22:07] 'upah minimum gaji until:2026-08-24' -> 1 baru | total 4,393
+[15:22:18] 'pajak naik rakyat until:2026-08-24' -> 0 baru | total 4,393
+2026-08-24 15:22:30.263 | ERROR    | twscrape.models:_write_dump:827 - Failed to parse response of tweet, writing dump to /tmp/twscrape/twscrape_parse_error_2026-08-24_08-22-30_hoasb.txt
+[15:22:35] 'gaji tidak cukup until:2026-08-24' -> 4 baru | total 4,397
+[15:22:46] 'harga BBM naik until:2026-08-24' -> 1 baru | total 4,398
+2026-08-24 15:22:51.613 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 15:36:48
+2026-08-24 15:36:52.599 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:333 - Continuing with account bryengith on queue SearchTimeline
+[15:37:00] 'listrik mahal until:2026-08-24' -> 0 baru | total 4,398
+[15:37:15] 'bantuan sosial pemerintah until:2026-08-24' -> 8 baru | total 4,406
+[15:37:30] 'harga turun murah until:2026-08-24' -> 2 baru | total 4,408
+2026-08-24 15:37:33.977 | ERROR    | twscrape.models:_write_dump:827 - Failed to parse response of tweet, writing dump to /tmp/twscrape/twscrape_parse_error_2026-08-24_08-37-33_nqcnu.txt
+2026-08-24 15:37:33.980 | ERROR    | twscrape.models:_write_dump:827 - Failed to parse response of tweet, writing dump to /tmp/twscrape/twscrape_parse_error_2026-08-24_08-37-33_ofqff.txt
+[15:37:40] 'gaji naik terima kasih until:2026-08-24' -> 0 baru | total 4,408
+[15:37:52] 'thr karyawan until:2026-08-24' -> 0 baru | total 4,408
+2026-08-24 15:37:56.801 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 15:51:52
+2026-08-24 15:51:03.648 | WARNING  | twscrape.accounts_pool:add_account:103 - Account bryengith already exists
+[auth] bryengith: memakai cookies dari .env
+2026-08-24 15:51:03.654 | INFO     | twscrape.accounts_pool:add_account:125 - Account Yantdevelop added successfully (active=True)
+[auth] Yantdevelop: memakai cookies dari .env
+[auth] 2 akun aktif siap dipakai (rotasi otomatis).
+[data] 4,408 tweet sudah ada di dataset
+[plan] Kuota & progress awal per periode:
+   2026: 3,874/5,500
+   2025: 141/2,250
+   2024: 204/2,250
+[15:51:26] [2025] 'promo diskon harga since:2025-03-01 until:2025-04-01' -> 219 baru || 2026:3874/5500 | 2025:360/2250 | 2024:204/2250
+[15:51:36] [2024] 'promo diskon harga since:2024-03-01 until:2024-04-01' -> 123 baru || 2026:3874/5500 | 2025:360/2250 | 2024:327/2250
+[15:51:48] [2024] 'bbm subsidi since:2024-06-01 until:2024-07-01' -> 163 baru || 2026:3874/5500 | 2025:360/2250 | 2024:490/2250
+[15:52:14] [2025] 'bbm subsidi since:2025-06-01 until:2025-07-01' -> 152 baru || 2026:3874/5500 | 2025:512/2250 | 2024:490/2250
+[15:52:28] [2024] 'kenaikan harga since:2024-12-01 until:2025-01-01' -> 215 baru || 2026:3874/5500 | 2025:585/2250 | 2024:632/2250
+[15:52:42] [2025] 'kenaikan harga since:2025-12-01 until:2026-01-01' -> 213 baru || 2026:3880/5500 | 2025:792/2250 | 2024:632/2250
+[15:52:50] [2024] 'promo diskon harga since:2024-07-01 until:2024-08-01' -> 131 baru || 2026:3880/5500 | 2025:792/2250 | 2024:762/2250
+[15:52:54] [2024] 'harga cabai since:2024-11-01 until:2024-12-01' -> 49 baru || 2026:3880/5500 | 2025:792/2250 | 2024:811/2250
+[15:53:05] [2025] 'promo diskon harga since:2025-07-01 until:2025-08-01' -> 165 baru || 2026:3880/5500 | 2025:956/2250 | 2024:811/2250
+[15:53:16] [2024] 'bayar sekolah since:2024-07-01 until:2024-08-01' -> 221 baru || 2026:3880/5500 | 2025:956/2250 | 2024:1032/2250
+2026-08-24 15:53:17.690 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 16:06:11
+2026-08-24 16:06:18.646 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:333 - Continuing with account Yantdevelop on queue SearchTimeline
+[16:06:24] [2025] 'harga cabai since:2025-11-01 until:2025-12-01' -> 100 baru || 2026:3880/5500 | 2025:1056/2250 | 2024:1032/2250
+[16:06:33] [2024] 'pajak naik rakyat since:2024-08-01 until:2024-09-01' -> 118 baru || 2026:3880/5500 | 2025:1056/2250 | 2024:1150/2250
+[16:06:45] [2025] 'bayar sekolah since:2025-07-01 until:2025-08-01' -> 224 baru || 2026:3880/5500 | 2025:1280/2250 | 2024:1150/2250
+[16:06:55] [2024] 'kenaikan tarif since:2024-05-01 until:2024-06-01' -> 141 baru || 2026:3880/5500 | 2025:1280/2250 | 2024:1291/2250
+[16:07:06] [2025] 'pajak naik rakyat since:2025-08-01 until:2025-09-01' -> 224 baru || 2026:3880/5500 | 2025:1504/2250 | 2024:1291/2250
+2026-08-24 16:07:08.223 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 16:07:18
+2026-08-24 16:07:23.250 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:333 - Continuing with account bryengith on queue SearchTimeline
+[16:07:24] [2024] 'upah minimum gaji since:2024-03-01 until:2024-04-01' -> 13 baru || 2026:3880/5500 | 2025:1504/2250 | 2024:1304/2250
+[16:07:27] [2024] 'subsidi membantu masyarakat since:2024-05-01 until:2024-06-01' -> 0 baru || 2026:3880/5500 | 2025:1504/2250 | 2024:1304/2250
+[16:07:37] [2024] 'harga telur since:2024-05-01 until:2024-06-01' -> 182 baru || 2026:3880/5500 | 2025:1504/2250 | 2024:1486/2250
+[16:07:42] [2024] 'harga tiket naik since:2024-02-01 until:2024-03-01' -> 74 baru || 2026:3880/5500 | 2025:1504/2250 | 2024:1560/2250
+[16:07:51] [2025] 'kenaikan tarif since:2025-05-01 until:2025-06-01' -> 116 baru || 2026:3880/5500 | 2025:1620/2250 | 2024:1560/2250
+[16:07:56] [2024] 'gaji tidak cukup since:2024-11-01 until:2024-12-01' -> 48 baru || 2026:3880/5500 | 2025:1620/2250 | 2024:1608/2250
+[16:08:00] [2026] 'thr karyawan since:2026-08-01 until:2026-08-25' -> 0 baru || 2026:3880/5500 | 2025:1620/2250 | 2024:1608/2250
+[16:08:04] [2026] 'gaji naik terima kasih since:2026-01-01 until:2026-02-01' -> 0 baru || 2026:3880/5500 | 2025:1620/2250 | 2024:1608/2250
+2026-08-24 16:08:07.661 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 16:21:19
+2026-08-24 16:21:23.594 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:333 - Continuing with account Yantdevelop on queue SearchTimeline
+[16:21:32] [2026] 'bantuan sosial pemerintah since:2026-04-01 until:2026-05-01' -> 164 baru || 2026:4044/5500 | 2025:1620/2250 | 2024:1608/2250
+[16:21:43] [2024] 'bbm subsidi since:2024-12-01 until:2025-01-01' -> 209 baru || 2026:4044/5500 | 2025:1631/2250 | 2024:1806/2250
+[16:21:46] [2025] 'upah minimum gaji since:2025-03-01 until:2025-04-01' -> 19 baru || 2026:4044/5500 | 2025:1650/2250 | 2024:1806/2250
+[16:21:49] [2025] 'subsidi membantu masyarakat since:2025-05-01 until:2025-06-01' -> 0 baru || 2026:4044/5500 | 2025:1650/2250 | 2024:1806/2250
+[16:22:02] [2025] 'harga telur since:2025-05-01 until:2025-06-01' -> 210 baru || 2026:4044/5500 | 2025:1857/2250 | 2024:1808/2250
+[16:22:06] [2026] 'naik jabatan gaji since:2026-02-01 until:2026-03-01' -> 50 baru || 2026:4094/5500 | 2025:1857/2250 | 2024:1808/2250
+[16:22:09] [2026] 'harga BBM naik since:2026-01-01 until:2026-02-01' -> 18 baru || 2026:4112/5500 | 2025:1857/2250 | 2024:1808/2250
+2026-08-24 16:22:11.858 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 16:22:23
+2026-08-24 16:22:26.873 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:333 - Continuing with account bryengith on queue SearchTimeline
+[16:22:38] [2026] 'kebijakan ekonomi pemerintah since:2026-03-01 until:2026-04-01' -> 212 baru || 2026:4323/5500 | 2025:1858/2250 | 2024:1808/2250
+[16:22:48] [2026] 'harga turun murah since:2026-08-01 until:2026-08-25' -> 0 baru || 2026:4323/5500 | 2025:1858/2250 | 2024:1808/2250
+[16:22:59] [2026] 'harga BBM naik since:2026-08-01 until:2026-08-25' -> 0 baru || 2026:4323/5500 | 2025:1858/2250 | 2024:1808/2250
+[16:23:12] [2026] 'subsidi pemerintah since:2026-02-01 until:2026-03-01' -> 209 baru || 2026:4532/5500 | 2025:1858/2250 | 2024:1808/2250
+2026-08-24 16:23:20.353 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 16:36:24
+2026-08-24 16:36:36.334 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:333 - Continuing with account Yantdevelop on queue SearchTimeline
+[16:36:40] [2024] 'kenaikan tarif since:2024-03-01 until:2024-04-01' -> 202 baru || 2026:4532/5500 | 2025:1858/2250 | 2024:2010/2250
+[16:36:43] [2026] 'tarif tol naik since:2026-02-01 until:2026-03-01' -> 9 baru || 2026:4541/5500 | 2025:1858/2250 | 2024:2010/2250
+[16:36:52] [2026] 'pajak naik rakyat since:2026-05-01 until:2026-06-01' -> 135 baru || 2026:4676/5500 | 2025:1858/2250 | 2024:2010/2250
+[16:36:57] [2025] 'harga tiket naik since:2025-02-01 until:2025-03-01' -> 63 baru || 2026:4676/5500 | 2025:1921/2250 | 2024:2010/2250
+[16:37:01] [2026] 'pajak naik rakyat since:2026-01-01 until:2026-02-01' -> 32 baru || 2026:4707/5500 | 2025:1922/2250 | 2024:2010/2250
+[16:37:06] [2025] 'gaji tidak cukup since:2025-11-01 until:2025-12-01' -> 23 baru || 2026:4707/5500 | 2025:1945/2250 | 2024:2010/2250
+[16:37:20] [2026] 'harga turun murah since:2026-06-01 until:2026-07-01' -> 218 baru || 2026:4925/5500 | 2025:1945/2250 | 2024:2010/2250
+2026-08-24 16:37:24.470 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 16:37:27
+2026-08-24 16:37:39.495 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:333 - Continuing with account bryengith on queue SearchTimeline
+[16:37:47] [2025] 'bbm subsidi since:2025-12-01 until:2026-01-01' -> 97 baru || 2026:4933/5500 | 2025:2034/2250 | 2024:2010/2250
+[16:37:52] [2024] 'hemat pengeluaran since:2024-11-01 until:2024-12-01' -> 56 baru || 2026:4933/5500 | 2025:2034/2250 | 2024:2066/2250
+[16:37:59] [2026] 'promo diskon harga since:2026-01-01 until:2026-02-01' -> 100 baru || 2026:5030/5500 | 2025:2037/2250 | 2024:2066/2250
+[16:38:06] [2025] 'kenaikan tarif since:2025-03-01 until:2025-04-01' -> 84 baru || 2026:5030/5500 | 2025:2121/2250 | 2024:2066/2250
+[16:38:09] [2026] 'thr karyawan since:2026-06-01 until:2026-07-01' -> 0 baru || 2026:5030/5500 | 2025:2121/2250 | 2024:2066/2250
+[16:38:18] [2026] 'kenaikan tarif since:2026-07-01 until:2026-08-01' -> 120 baru || 2026:5150/5500 | 2025:2121/2250 | 2024:2066/2250
+[16:38:21] [2024] 'gajian bonus since:2024-04-01 until:2024-05-01' -> 9 baru || 2026:5150/5500 | 2025:2121/2250 | 2024:2075/2250
+2026-08-24 16:38:25.060 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 16:51:36
+2026-08-24 16:51:40.977 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:333 - Continuing with account Yantdevelop on queue SearchTimeline
+[16:51:43] [2024] 'harga turun murah since:2024-07-01 until:2024-08-01' -> 53 baru || 2026:5150/5500 | 2025:2121/2250 | 2024:2127/2250
+[16:51:49] [2026] 'pajak naik rakyat since:2026-04-01 until:2026-05-01' -> 81 baru || 2026:5231/5500 | 2025:2121/2250 | 2024:2127/2250
+[16:51:54] [2025] 'hemat pengeluaran since:2025-11-01 until:2025-12-01' -> 32 baru || 2026:5231/5500 | 2025:2153/2250 | 2024:2127/2250
+[16:51:57] [2024] 'gaji naik terima kasih since:2024-09-01 until:2024-10-01' -> 0 baru || 2026:5231/5500 | 2025:2153/2250 | 2024:2127/2250
+[16:51:59] [2024] 'makan murah kenyang since:2024-08-01 until:2024-09-01' -> 8 baru || 2026:5231/5500 | 2025:2153/2250 | 2024:2135/2250
+[16:52:07] [2024] 'pajak naik rakyat since:2024-10-01 until:2024-11-01' -> 116 baru || 2026:5231/5500 | 2025:2153/2250 | 2024:2251/2250
+[16:52:16] [2026] 'harga sembako naik since:2026-06-01 until:2026-07-01' -> 19 baru || 2026:5250/5500 | 2025:2153/2250 | 2024:2251/2250
+2026-08-24 16:52:24.787 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:362 - No account available for queue "SearchTimeline". Next available at 16:52:41
+2026-08-24 16:52:54.834 | INFO     | twscrape.accounts_pool:get_for_queue_or_wait:333 - Continuing with account bryengith on queue SearchTimeline
+[16:53:01] [2026] 'kebijakan ekonomi pemerintah since:2026-04-01 until:2026-05-01' -> 201 baru || 2026:5451/5500 | 2025:2153/2250 | 2024:2251/2250
+[16:53:05] [2025] 'gajian bonus since:2025-04-01 until:2025-05-01' -> 54 baru || 2026:5451/5500 | 2025:2207/2250 | 2024:2251/2250
+[16:53:10] [2025] 'harga turun murah since:2025-07-01 until:2025-08-01' -> 65 baru || 2026:5451/5500 | 2025:2272/2250 | 2024:2251/2250
+[16:53:15] [2026] 'inflasi Indonesia since:2026-07-01 until:2026-08-01' -> 16 baru || 2026:5467/5500 | 2025:2272/2250 | 2024:2251/2250
+[16:53:17] [2026] 'naik jabatan gaji since:2026-07-01 until:2026-08-01' -> 43 baru || 2026:5510/5500 | 2025:2272/2250 | 2024:2251/2250
+[stop] Semua kuota periode terpenuhi atau rencana habis
+
+[selesai] Total tweet unik di /home/kbuser/bryant_folder/machine_learning/Sentiment_Analysis/data/dataset_tweets.csv: 10,226
+   2026: 5,510/5,500
+   2025: 2,272/2,250
+   2024: 2,251/2,250

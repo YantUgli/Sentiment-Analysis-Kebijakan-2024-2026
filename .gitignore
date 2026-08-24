@@ -1,0 +1,11 @@
+# Kredensial
+.env
+.env.local
+
+# Local environment (virtualenv)
+.venv/
+venv/
+env/
+
+# Artefak sesi Claude Code
+.claude/

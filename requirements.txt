@@ -1,0 +1,13 @@
+twscrape>=0.20.0
+curl_cffi>=0.7.0
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+gensim>=4.3.2
+tensorflow>=2.16.0
+nltk>=3.8.1
+Sastrawi>=1.0.1
+matplotlib>=3.8.0
+seaborn>=0.13.0
+tqdm>=4.66.0
+python-dotenv>=1.0.0
