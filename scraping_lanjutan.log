@@ -1,0 +1,141 @@
+[auth] 2 akun aktif dari accounts.db: bryengith, Yantdevelop
+[data] 10,280 tweet sudah ada di dataset
+[plan] 88 kombinasi query sudah dikerjakan run sebelumnya - akan dilewati
+[plan] Kuota & progress awal per periode:
+   2026: 5,564/10,500 | 238 entri query tersedia
+   2025: 2,272/4,250 | 367 entri query tersedia
+   2024: 2,251/4,250 | 365 entri query tersedia
+[32m2026-08-26 10:01:04.560[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m362[0m - [1mNo account available for queue "SearchTimeline". Next available at 10:12:12[0m
+[32m2026-08-26 10:12:20.690[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m333[0m - [1mContinuing with account bryengith on queue SearchTimeline[0m
+[10:12:30] [2024] 'subsidi pemerintah since:2024-10-01 until:2024-11-01' -> 202 baru || total:10,482 || 2026:5564/10500 | 2025:2272/4250 | 2024:2453/4250
+[10:12:33] [2026] 'hemat pengeluaran since:2026-01-01 until:2026-02-01' -> 25 baru || total:10,507 || 2026:5588/10500 | 2025:2273/4250 | 2024:2453/4250
+[10:12:43] [2026] 'bbm subsidi since:2026-04-01 until:2026-05-01' -> 194 baru || total:10,701 || 2026:5782/10500 | 2025:2273/4250 | 2024:2453/4250
+[10:12:50] [2025] 'tagihan listrik since:2025-10-01 until:2025-11-01' -> 106 baru || total:10,807 || 2026:5782/10500 | 2025:2379/4250 | 2024:2453/4250
+[10:13:00] [2026] 'harga turun murah since:2026-04-01 until:2026-05-01' -> 203 baru || total:11,010 || 2026:5983/10500 | 2025:2381/4250 | 2024:2453/4250
+[32m2026-08-26 10:13:04.819[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m362[0m - [1mNo account available for queue "SearchTimeline". Next available at 10:14:20[0m
+[32m2026-08-26 10:14:34.923[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m333[0m - [1mContinuing with account Yantdevelop on queue SearchTimeline[0m
+[10:14:38] [2025] 'harga turun murah since:2025-09-01 until:2025-10-01' -> 73 baru || total:11,083 || 2026:5983/10500 | 2025:2454/4250 | 2024:2453/4250
+[10:14:48] [2026] 'bbm subsidi since:2026-06-01 until:2026-07-01' -> 207 baru || total:11,290 || 2026:6190/10500 | 2025:2454/4250 | 2024:2453/4250
+[10:14:51] [2024] 'gaji naik terima kasih since:2024-09-01 until:2024-10-01' -> 0 baru || total:11,290 || 2026:6190/10500 | 2025:2454/4250 | 2024:2453/4250
+[10:14:53] [2024] 'subsidi membantu masyarakat since:2024-06-01 until:2024-07-01' -> 0 baru || total:11,290 || 2026:6190/10500 | 2025:2454/4250 | 2024:2453/4250
+[10:15:01] [2024] 'promo diskon harga since:2024-06-01 until:2024-07-01' -> 154 baru || total:11,444 || 2026:6190/10500 | 2025:2454/4250 | 2024:2607/4250
+[10:15:04] [2025] 'subsidi membantu masyarakat since:2025-06-01 until:2025-07-01' -> 0 baru || total:11,444 || 2026:6190/10500 | 2025:2454/4250 | 2024:2607/4250
+[10:15:10] [2025] 'promo diskon harga since:2025-06-01 until:2025-07-01' -> 110 baru || total:11,554 || 2026:6190/10500 | 2025:2564/4250 | 2024:2607/4250
+[32m2026-08-26 10:15:14.705[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m362[0m - [1mNo account available for queue "SearchTimeline". Next available at 10:27:22[0m
+[32m2026-08-26 13:21:22.069[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m333[0m - [1mContinuing with account bryengith on queue SearchTimeline[0m
+[32m2026-08-26 13:21:30.476[0m | [33m[1mWARNING [0m | [36mtwscrape.queue_client[0m:[36mreq[0m:[36m371[0m - [33m[1mConnectError; username=bryengith; queue=SearchTimeline; backend=curl; proxy=False; cooling account for 60s[0m
+[13:21:46] [2026] 'kebijakan ekonomi pemerintah since:2026-01-01 until:2026-02-01' -> 211 baru || total:11,765 || 2026:6401/10500 | 2025:2564/4250 | 2024:2607/4250
+[13:21:49] [2025] 'harga sembako naik since:2025-06-01 until:2025-07-01' -> 17 baru || total:11,782 || 2026:6401/10500 | 2025:2581/4250 | 2024:2607/4250
+[13:21:53] [2025] 'upah minimum gaji since:2025-01-01 until:2025-02-01' -> 14 baru || total:11,796 || 2026:6401/10500 | 2025:2595/4250 | 2024:2607/4250
+[13:22:02] [2026] 'listrik mahal since:2026-06-01 until:2026-07-01' -> 211 baru || total:12,007 || 2026:6612/10500 | 2025:2595/4250 | 2024:2607/4250
+[13:22:14] [2025] 'harga BBM naik since:2025-11-01 until:2025-12-01' -> 68 baru || total:12,075 || 2026:6612/10500 | 2025:2663/4250 | 2024:2607/4250
+[13:22:17] [2024] 'harga sembako naik since:2024-06-01 until:2024-07-01' -> 45 baru || total:12,120 || 2026:6612/10500 | 2025:2663/4250 | 2024:2652/4250
+[13:22:20] [2024] 'upah minimum gaji since:2024-01-01 until:2024-02-01' -> 21 baru || total:12,141 || 2026:6612/10500 | 2025:2663/4250 | 2024:2673/4250
+[32m2026-08-26 13:22:27.171[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m362[0m - [1mNo account available for queue "SearchTimeline". Next available at 13:22:30[0m
+[32m2026-08-26 13:22:42.216[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m333[0m - [1mContinuing with account bryengith on queue SearchTimeline[0m
+[13:22:46] [2025] 'promo diskon harga since:2025-04-01 until:2025-05-01' -> 198 baru || total:12,339 || 2026:6612/10500 | 2025:2861/4250 | 2024:2673/4250
+[13:22:51] [2024] 'harga turun murah since:2024-10-01 until:2024-11-01' -> 76 baru || total:12,415 || 2026:6612/10500 | 2025:2861/4250 | 2024:2749/4250
+[13:22:57] [2026] 'harga cabai since:2026-08-01 until:2026-08-27' -> 13 baru || total:12,428 || 2026:6625/10500 | 2025:2861/4250 | 2024:2749/4250
+[13:23:01] [2026] 'naik jabatan gaji since:2026-03-01 until:2026-04-01' -> 56 baru || total:12,484 || 2026:6681/10500 | 2025:2861/4250 | 2024:2749/4250
+[13:23:11] [2026] 'harga telur since:2026-01-01 until:2026-02-01' -> 162 baru || total:12,646 || 2026:6843/10500 | 2025:2861/4250 | 2024:2749/4250
+[13:23:16] [2024] 'promo diskon harga since:2024-04-01 until:2024-05-01' -> 90 baru || total:12,736 || 2026:6843/10500 | 2025:2861/4250 | 2024:2839/4250
+[32m2026-08-26 13:23:19.975[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m362[0m - [1mNo account available for queue "SearchTimeline". Next available at 13:36:36[0m
+[32m2026-08-26 13:36:51.055[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m333[0m - [1mContinuing with account Yantdevelop on queue SearchTimeline[0m
+[13:36:52] [2026] 'harga tiket naik since:2026-02-01 until:2026-03-01' -> 52 baru || total:12,788 || 2026:6895/10500 | 2025:2861/4250 | 2024:2839/4250
+[13:36:54] [2026] 'tarif tol naik since:2026-01-01 until:2026-02-01' -> 23 baru || total:12,811 || 2026:6918/10500 | 2025:2861/4250 | 2024:2839/4250
+[13:37:04] [2026] 'kenaikan harga since:2026-08-01 until:2026-08-27' -> 111 baru || total:12,922 || 2026:7029/10500 | 2025:2861/4250 | 2024:2839/4250
+[13:37:11] [2024] 'kebijakan ekonomi pemerintah since:2024-05-01 until:2024-06-01' -> 62 baru || total:12,984 || 2026:7029/10500 | 2025:2861/4250 | 2024:2901/4250
+[13:37:14] [2026] 'gaji naik terima kasih since:2026-01-01 until:2026-02-01' -> 0 baru || total:12,984 || 2026:7029/10500 | 2025:2861/4250 | 2024:2901/4250
+[13:37:19] [2026] 'upah minimum gaji since:2026-03-01 until:2026-04-01' -> 38 baru || total:13,022 || 2026:7067/10500 | 2025:2861/4250 | 2024:2901/4250
+[13:37:30] [2026] 'subsidi pemerintah since:2026-05-01 until:2026-06-01' -> 220 baru || total:13,242 || 2026:7287/10500 | 2025:2861/4250 | 2024:2901/4250
+[32m2026-08-26 13:37:35.371[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m362[0m - [1mNo account available for queue "SearchTimeline". Next available at 13:37:42[0m
+[32m2026-08-26 13:37:50.385[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m333[0m - [1mContinuing with account bryengith on queue SearchTimeline[0m
+[13:37:54] [2025] 'kebijakan ekonomi pemerintah since:2025-05-01 until:2025-06-01' -> 157 baru || total:13,399 || 2026:7287/10500 | 2025:3018/4250 | 2024:2901/4250
+[13:37:59] [2024] 'listrik mahal since:2024-06-01 until:2024-07-01' -> 85 baru || total:13,484 || 2026:7287/10500 | 2025:3018/4250 | 2024:2985/4250
+[13:38:05] [2026] 'harga sembako naik since:2026-05-01 until:2026-06-01' -> 132 baru || total:13,616 || 2026:7419/10500 | 2025:3018/4250 | 2024:2985/4250
+[13:38:15] [2024] 'harga telur since:2024-09-01 until:2024-10-01' -> 182 baru || total:13,798 || 2026:7419/10500 | 2025:3018/4250 | 2024:3166/4250
+[13:38:24] [2026] 'harga telur since:2026-08-01 until:2026-08-27' -> 183 baru || total:13,981 || 2026:7601/10500 | 2025:3019/4250 | 2024:3166/4250
+[32m2026-08-26 13:38:27.928[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m362[0m - [1mNo account available for queue "SearchTimeline". Next available at 13:51:51[0m
+[32m2026-08-26 13:51:58.931[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m333[0m - [1mContinuing with account Yantdevelop on queue SearchTimeline[0m
+[13:52:00] [2025] 'listrik mahal since:2025-06-01 until:2025-07-01' -> 67 baru || total:14,048 || 2026:7601/10500 | 2025:3086/4250 | 2024:3166/4250
+[13:52:05] [2026] 'harga tiket naik since:2026-07-01 until:2026-08-01' -> 88 baru || total:14,136 || 2026:7689/10500 | 2025:3086/4250 | 2024:3166/4250
+[13:52:12] [2025] 'harga telur since:2025-09-01 until:2025-10-01' -> 117 baru || total:14,253 || 2026:7689/10500 | 2025:3203/4250 | 2024:3166/4250
+[13:52:21] [2026] 'inflasi Indonesia since:2026-02-01 until:2026-03-01' -> 174 baru || total:14,427 || 2026:7863/10500 | 2025:3203/4250 | 2024:3166/4250
+[13:52:25] [2024] 'tarif tol naik since:2024-06-01 until:2024-07-01' -> 5 baru || total:14,432 || 2026:7863/10500 | 2025:3203/4250 | 2024:3171/4250
+[13:52:30] [2024] 'harga turun murah since:2024-04-01 until:2024-05-01' -> 72 baru || total:14,504 || 2026:7863/10500 | 2025:3203/4250 | 2024:3243/4250
+[32m2026-08-26 13:52:35.913[0m | [31m[1mERROR   [0m | [36mtwscrape.models[0m:[36m_write_dump[0m:[36m827[0m - [31m[1mFailed to parse response of tweet, writing dump to /tmp/twscrape/twscrape_parse_error_2026-08-26_06-52-35_aluee.txt[0m
+[32m2026-08-26 13:52:37.657[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m362[0m - [1mNo account available for queue "SearchTimeline". Next available at 13:52:50[0m
+[32m2026-08-26 13:52:52.682[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m333[0m - [1mContinuing with account bryengith on queue SearchTimeline[0m
+[13:52:59] [2026] 'gaji tidak cukup since:2026-07-01 until:2026-08-01' -> 27 baru || total:14,531 || 2026:7890/10500 | 2025:3203/4250 | 2024:3243/4250
+[13:53:02] [2026] 'harga minyak goreng since:2026-01-01 until:2026-02-01' -> 34 baru || total:14,565 || 2026:7924/10500 | 2025:3203/4250 | 2024:3243/4250
+[13:53:04] [2025] 'tarif tol naik since:2025-06-01 until:2025-07-01' -> 13 baru || total:14,578 || 2026:7924/10500 | 2025:3216/4250 | 2024:3243/4250
+[13:53:13] [2026] 'bayar sekolah since:2026-08-01 until:2026-08-27' -> 236 baru || total:14,814 || 2026:8160/10500 | 2025:3216/4250 | 2024:3243/4250
+[13:53:19] [2025] 'harga turun murah since:2025-04-01 until:2025-05-01' -> 89 baru || total:14,903 || 2026:8160/10500 | 2025:3305/4250 | 2024:3243/4250
+[13:53:27] [2024] 'bantuan sosial pemerintah since:2024-01-01 until:2024-02-01' -> 161 baru || total:15,064 || 2026:8160/10500 | 2025:3305/4250 | 2024:3404/4250
+[32m2026-08-26 13:53:29.171[0m | [31m[1mERROR   [0m | [36mtwscrape.models[0m:[36m_write_dump[0m:[36m827[0m - [31m[1mFailed to parse response of tweet, writing dump to /tmp/twscrape/twscrape_parse_error_2026-08-26_06-53-29_wfrvi.txt[0m
+[32m2026-08-26 13:53:30.242[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m362[0m - [1mNo account available for queue "SearchTimeline". Next available at 14:06:59[0m
+[32m2026-08-26 14:07:01.230[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m333[0m - [1mContinuing with account Yantdevelop on queue SearchTimeline[0m
+[14:07:01] [2026] 'gaji naik terima kasih since:2026-06-01 until:2026-07-01' -> 0 baru || total:15,064 || 2026:8160/10500 | 2025:3305/4250 | 2024:3404/4250
+[14:07:12] [2026] 'harga minyak goreng since:2026-04-01 until:2026-05-01' -> 233 baru || total:15,297 || 2026:8393/10500 | 2025:3305/4250 | 2024:3404/4250
+[14:07:16] [2025] 'bantuan sosial pemerintah since:2025-01-01 until:2025-02-01' -> 55 baru || total:15,352 || 2026:8393/10500 | 2025:3360/4250 | 2024:3404/4250
+[14:07:18] [2025] 'gaji naik terima kasih since:2025-01-01 until:2025-02-01' -> 2 baru || total:15,354 || 2026:8393/10500 | 2025:3362/4250 | 2024:3404/4250
+[14:07:24] [2025] 'inflasi Indonesia since:2025-07-01 until:2025-08-01' -> 105 baru || total:15,459 || 2026:8393/10500 | 2025:3467/4250 | 2024:3404/4250
+[14:07:28] [2026] 'harga sembako naik since:2026-08-01 until:2026-08-27' -> 7 baru || total:15,466 || 2026:8400/10500 | 2025:3467/4250 | 2024:3404/4250
+[14:07:37] [2026] 'bbm subsidi since:2026-03-01 until:2026-04-01' -> 202 baru || total:15,668 || 2026:8602/10500 | 2025:3467/4250 | 2024:3404/4250
+[14:07:40] [2024] 'gaji naik terima kasih since:2024-01-01 until:2024-02-01' -> 0 baru || total:15,668 || 2026:8602/10500 | 2025:3467/4250 | 2024:3404/4250
+[32m2026-08-26 14:07:43.511[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m362[0m - [1mNo account available for queue "SearchTimeline". Next available at 14:07:52[0m
+[32m2026-08-26 14:07:58.533[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m333[0m - [1mContinuing with account bryengith on queue SearchTimeline[0m
+[14:08:04] [2024] 'inflasi Indonesia since:2024-07-01 until:2024-08-01' -> 137 baru || total:15,805 || 2026:8602/10500 | 2025:3467/4250 | 2024:3541/4250
+[14:08:09] [2025] 'harga cabai since:2025-09-01 until:2025-10-01' -> 99 baru || total:15,904 || 2026:8602/10500 | 2025:3566/4250 | 2024:3541/4250
+[14:08:11] [2026] 'tarif tol naik since:2026-05-01 until:2026-06-01' -> 6 baru || total:15,910 || 2026:8608/10500 | 2025:3566/4250 | 2024:3541/4250
+[14:08:21] [2026] 'harga minyak goreng since:2026-05-01 until:2026-06-01' -> 191 baru || total:16,101 || 2026:8799/10500 | 2025:3566/4250 | 2024:3541/4250
+[14:08:31] [2024] 'harga beras since:2024-09-01 until:2024-10-01' -> 197 baru || total:16,298 || 2026:8799/10500 | 2025:3566/4250 | 2024:3738/4250
+[32m2026-08-26 14:08:35.050[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m362[0m - [1mNo account available for queue "SearchTimeline". Next available at 14:22:01[0m
+[32m2026-08-26 17:46:33.389[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m333[0m - [1mContinuing with account bryengith on queue SearchTimeline[0m
+[32m2026-08-26 17:46:41.158[0m | [33m[1mWARNING [0m | [36mtwscrape.queue_client[0m:[36mreq[0m:[36m371[0m - [33m[1mConnectError; username=bryengith; queue=SearchTimeline; backend=curl; proxy=False; cooling account for 60s[0m
+[17:46:51] [2026] 'thr karyawan since:2026-02-01 until:2026-03-01' -> 132 baru || total:16,430 || 2026:8931/10500 | 2025:3566/4250 | 2024:3738/4250
+[stop] Batas waktu 420 menit tercapai
+
+[selesai] Total tweet unik di C:\Users\bryant\project\Sentiment-Analysis-Kebijakan-2024-2026\data\dataset_tweets.csv: 16,430
+   2026: 8,931/10,500
+   2025: 3,566/4,250
+   2024: 3,738/4,250
+[auth] 2 akun aktif dari accounts.db: bryengith, Yantdevelop
+[data] 16,430 tweet sudah ada di dataset
+[plan] 145 kombinasi query sudah dikerjakan run sebelumnya - akan dilewati
+[plan] Kuota & progress awal per periode:
+   2026: 8,931/10,500 | 211 entri query tersedia
+   2025: 3,566/4,250 | 351 entri query tersedia
+   2024: 3,738/4,250 | 351 entri query tersedia
+[17:50:38] [2025] 'gaji naik terima kasih since:2025-10-01 until:2025-11-01' -> 0 baru || total:16,430 || 2026:8931/10500 | 2025:3566/4250 | 2024:3738/4250
+[17:50:48] [2025] 'promo diskon harga since:2025-01-01 until:2025-02-01' -> 210 baru || total:16,640 || 2026:8931/10500 | 2025:3776/4250 | 2024:3738/4250
+[17:50:58] [2026] 'tagihan listrik since:2026-04-01 until:2026-05-01' -> 193 baru || total:16,833 || 2026:9124/10500 | 2025:3776/4250 | 2024:3738/4250
+[17:51:07] [2026] 'subsidi pemerintah since:2026-01-01 until:2026-02-01' -> 146 baru || total:16,979 || 2026:9270/10500 | 2025:3776/4250 | 2024:3738/4250
+[17:51:09] [2024] 'thr karyawan since:2024-10-01 until:2024-11-01' -> 8 baru || total:16,987 || 2026:9270/10500 | 2025:3776/4250 | 2024:3746/4250
+[17:51:12] [2024] 'naik jabatan gaji since:2024-01-01 until:2024-02-01' -> 25 baru || total:17,012 || 2026:9270/10500 | 2025:3776/4250 | 2024:3771/4250
+[17:51:18] [2026] 'pajak naik rakyat since:2026-02-01 until:2026-03-01' -> 46 baru || total:17,058 || 2026:9316/10500 | 2025:3776/4250 | 2024:3771/4250
+[17:51:27] [2026] 'harga telur since:2026-02-01 until:2026-03-01' -> 208 baru || total:17,266 || 2026:9523/10500 | 2025:3776/4250 | 2024:3771/4250
+[17:51:32] [2024] 'listrik mahal since:2024-12-01 until:2025-01-01' -> 81 baru || total:17,347 || 2026:9523/10500 | 2025:3781/4250 | 2024:3847/4250
+[17:51:36] [2025] 'listrik mahal since:2025-12-01 until:2026-01-01' -> 84 baru || total:17,431 || 2026:9527/10500 | 2025:3861/4250 | 2024:3847/4250
+[17:51:42] [2024] 'uang jajan anak since:2024-10-01 until:2024-11-01' -> 81 baru || total:17,512 || 2026:9527/10500 | 2025:3861/4250 | 2024:3928/4250
+[17:51:52] [2026] 'bayar sekolah since:2026-02-01 until:2026-03-01' -> 228 baru || total:17,740 || 2026:9755/10500 | 2025:3861/4250 | 2024:3928/4250
+[32m2026-08-26 17:51:53.943[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m362[0m - [1mNo account available for queue "SearchTimeline". Next available at 18:01:48[0m
+[32m2026-08-26 18:01:54.865[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m333[0m - [1mContinuing with account Yantdevelop on queue SearchTimeline[0m
+[18:02:03] [2025] 'harga telur since:2025-10-01 until:2025-11-01' -> 185 baru || total:17,925 || 2026:9755/10500 | 2025:4046/4250 | 2024:3928/4250
+[18:02:07] [2024] 'subsidi membantu masyarakat since:2024-03-01 until:2024-04-01' -> 0 baru || total:17,925 || 2026:9755/10500 | 2025:4046/4250 | 2024:3928/4250
+[18:02:10] [2024] 'gajian bonus since:2024-05-01 until:2024-06-01' -> 7 baru || total:17,932 || 2026:9755/10500 | 2025:4046/4250 | 2024:3935/4250
+[18:02:21] [2024] 'harga beras since:2024-05-01 until:2024-06-01' -> 193 baru || total:18,125 || 2026:9755/10500 | 2025:4046/4250 | 2024:4128/4250
+[18:02:30] [2026] 'uang jajan anak since:2026-02-01 until:2026-03-01' -> 116 baru || total:18,241 || 2026:9871/10500 | 2025:4046/4250 | 2024:4128/4250
+[18:02:40] [2026] 'tagihan listrik since:2026-06-01 until:2026-07-01' -> 194 baru || total:18,435 || 2026:10065/10500 | 2025:4046/4250 | 2024:4128/4250
+[32m2026-08-26 18:02:42.759[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m362[0m - [1mNo account available for queue "SearchTimeline". Next available at 18:05:37[0m
+[32m2026-08-26 18:05:42.993[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m333[0m - [1mContinuing with account bryengith on queue SearchTimeline[0m
+[18:05:49] [2025] 'inflasi Indonesia since:2025-03-01 until:2025-04-01' -> 135 baru || total:18,570 || 2026:10065/10500 | 2025:4181/4250 | 2024:4128/4250
+[18:05:59] [2026] 'inflasi Indonesia since:2026-01-01 until:2026-02-01' -> 166 baru || total:18,736 || 2026:10231/10500 | 2025:4181/4250 | 2024:4128/4250
+[18:06:04] [2024] 'kebijakan ekonomi pemerintah since:2024-03-01 until:2024-04-01' -> 37 baru || total:18,773 || 2026:10231/10500 | 2025:4181/4250 | 2024:4165/4250
+[18:06:14] [2026] 'harga beras since:2026-06-01 until:2026-07-01' -> 197 baru || total:18,970 || 2026:10428/10500 | 2025:4181/4250 | 2024:4165/4250
+[18:06:17] [2024] 'bantuan sosial pemerintah since:2024-05-01 until:2024-06-01' -> 32 baru || total:19,002 || 2026:10428/10500 | 2025:4181/4250 | 2024:4197/4250
+[18:06:20] [2025] 'naik jabatan gaji since:2025-05-01 until:2025-06-01' -> 24 baru || total:19,026 || 2026:10428/10500 | 2025:4205/4250 | 2024:4197/4250
+[18:06:23] [2024] 'harga BBM naik since:2024-03-01 until:2024-04-01' -> 64 baru || total:19,090 || 2026:10428/10500 | 2025:4205/4250 | 2024:4260/4250
+[32m2026-08-26 18:06:25.437[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m362[0m - [1mNo account available for queue "SearchTimeline". Next available at 18:16:55[0m
+[32m2026-08-26 18:16:56.228[0m | [1mINFO    [0m | [36mtwscrape.accounts_pool[0m:[36mget_for_queue_or_wait[0m:[36m333[0m - [1mContinuing with account Yantdevelop on queue SearchTimeline[0m
+[18:16:58] [2025] 'harga minyak goreng since:2025-05-01 until:2025-06-01' -> 35 baru || total:19,125 || 2026:10428/10500 | 2025:4240/4250 | 2024:4260/4250
